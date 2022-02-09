@@ -34,6 +34,7 @@ Sitemap
 
 
 Reports:
+
 *User Report: Contains details of a number of rides by the user.
 
 *Employee Report: Contain details of role and salary of the employee.
@@ -46,10 +47,15 @@ Reports:
 
 
 Software:
+
 1)Visual Studio 
+
 2)Agile (Jira) 
+
 3)Xaamp
+
 4)PHP My Admin Panel 
+
 5)firebase for backend
 
 
