@@ -49,13 +49,13 @@ Reports:
 
 Software:
 
-1)Visual Studio 
+1)Visual Studio for PHP  
 
 2)Agile (Jira) 
 
 3)Xaamp
 
-4)PHP My Admin Panel 
+4)PHP My Admin Panel for SQL 
 
 5)firebase for backend
 
