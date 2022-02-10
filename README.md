@@ -14,23 +14,23 @@ Stake Holders:
 
 Modules:
 
-Signup,
-Email verification,
-Welcome page sent through the mail,
-Customer Login,
-Employee login,
-Admin Login,
-Drivers Information,
-Car Information,
-Check Availability of cars,
-Booking,
-Booking history,
-Payment,
-Receipt,
-Support,
-Testimonial, 
-Updating profile,
-Sitemap
+1. Signup
+2. Email verification
+3. Welcome page sent through the mail
+4. Customer Login
+5. Employee login
+6. Admin Login
+7. Drivers Information
+8. Car Information
+9. Check Availability of cars
+10. Booking
+11. Booking history
+12. Payment
+13. Receipt
+14. Support
+15. Testimonial
+16. Updating profile
+17. Sitemap
 
 
 Reports:
