@@ -1,6 +1,6 @@
 # Grp7Cabhiringsystem
 
-About the project: 
+Abstract: 
 
 Cab Hiring system is developed to manage cab or taxi booking services online. Most of the people use cab service for their daily transportation needs. This Online cab booking system makes life much easier for the customer as well as the company. Customers can go online and check for the nearby available cabs and can easily book online. The company can also manage all the cab booking information and customer information. The purpose of the project is to build an application program to reduce the manual work for managing the Car, Payment, Booking, Customer. It tracks all the details about the Customer, Supplier, Insurance. In our cab hiring system, we are trying to implement an SOS feature where the customer gets a pop-up if he/she has reached their destination safely when the driver ends the ride To ensure the customer's safety.
 
